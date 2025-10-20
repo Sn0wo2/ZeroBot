@@ -1,6 +1,6 @@
 module github.com/wdvxdr1123/ZeroBot
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/FloatTech/ttl v0.0.0-20250224045156-012b1463287d
@@ -20,7 +20,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
